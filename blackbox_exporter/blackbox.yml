@@ -6,6 +6,7 @@ modules:
     prober: http
     http:
       preferred_ip_protocol: ip4
+
   http_find_content:
     prober: http
     http:
